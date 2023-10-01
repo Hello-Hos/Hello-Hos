@@ -1,7 +1,6 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://i.gifer.com/Yo77.gif))]
-<h1 align="center">Hi 👋, I'm Hari Om Singh</h1>
+![Full Stack Developer](https://gifdb.com/images/high/purple-sky-with-shining-stars-4h2qjs2chxmci8i2.gif)
 <h3 align="Left">Experienced Data Analyst | Full Stack Developer | Cybersecurity Enthusiast</h3>
-<div><img align="right" alt="Coding" width="250" src="https://tenor.com/view/data-analysis-graph-chart-gif-23151718.gif"><div>
+<img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/HEPwfdu6T6svpPE1eN/giphy.gif">
 - 🌱 I’m currently learning **Data Science**
 
 - 📫 How to reach me **ritikritik0@gmail.com**
