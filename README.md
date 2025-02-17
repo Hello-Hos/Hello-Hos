@@ -1,4 +1,5 @@
 ![Full Stack Developer](https://oclc.wd1.myworkdayjobs.com/OCLC_Careers/assets/banner)
+<h1 align="center">Hi 👋, I'm Hari Om Singh</h1>
 <h3 align="center">Trying To Become Web Developer | Data Scientist | Cybersecurity Enthusiast</h3>
 <img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/HEPwfdu6T6svpPE1eN/giphy.gif">
 
